@@ -235,6 +235,6 @@ High-performance personal portfolio with physics-based spring animations via Fra
 
 <br/>
 
-*"Don't predict the market. Audit it."*
+
 
 </div>
