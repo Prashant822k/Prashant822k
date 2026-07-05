@@ -117,7 +117,7 @@ Cross-platform app that deep-dives any code snippet through five lenses: plain E
 <td width="50%" valign="top">
 
 ### 🟢 [NuFlash](https://github.com/Prashant822k)
-**AI-Powered News Curation & Newsletter Engine** &nbsp;![contributor](https://img.shields.io/badge/-contributor-5DCAA5?style=flat-square)
+**AI-Powered News Curation & Newsletter Engine** &nbsp;![owner](https://img.shields.io/badge/-owner-ff6b35?style=flat-square)
 
 Backend of an AI news curation pipeline — OpenAI API selects and summarizes articles from RSS feeds based on user interests. Integrated Supabase for preference storage and set up automated newsletter dispatch via Postmark.
 
