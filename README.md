@@ -95,7 +95,7 @@ Backend for an institutional platform managing faculty professional development.
 
 `Supabase` `PostgreSQL` `TypeScript` `React` `REST APIs` `RLS` `Realtime`
 
-[![Live](https://img.shields.io/badge/🚀_Live-fdp.theta.vercel.app-3b82f6?style=flat-square)](https://fdp.theta.vercel.app)
+[![Live](https://img.shields.io/badge/🚀_Live-fdp.theta.vercel.app-3b82f6?style=flat-square)](https://fdp-theta.vercel.app)
 
 </td>
 <td width="50%" valign="top">
