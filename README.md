@@ -86,7 +86,7 @@ Full-stack app that lets users upload PDFs and have a natural conversation with 
 <tr>
 <td width="50%" valign="top">
 
-### 🟡 [Faculty Development Portal](https://fdp.theta.vercel.app)
+### 🟡 [Faculty Development Portal](https://fdp-theta.vercel.app)
 **Role-Based Academic Management Platform** &nbsp;![contributor](https://img.shields.io/badge/-contributor-5DCAA5?style=flat-square)
 
 Backend for an institutional platform managing faculty professional development. Designed a relational PostgreSQL schema supporting **Faculty, HoD, and Admin roles** with Supabase Auth, real-time updates via Supabase Realtime, and full TypeScript type-safety.
